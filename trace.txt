@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function() {
+      const faceName = document.getElementById("face-name").innerText;
+      console.log("Nama wajah:", faceName);
+    });
